@@ -7,11 +7,11 @@ My name is Raiyyan Ahmed. I'm a first-generation college graduate from the Unive
 
 ## Work Out Tracker
 
-[Link to Site: IronLung] (https://ironlog-iiyu.onrender.com/)
+[Link to Site: IronLung](https://ironlog-iiyu.onrender.com/)
 
 ## Games
 
-[St Thomas Sustainability Game] (https://sp26-sust-init.onrender.com/Game1/index.html)
+[St Thomas Sustainability Game](https://sp26-sust-init.onrender.com/Game1/index.html)
 
 ## Statistic Project
 
