@@ -2,11 +2,14 @@
 My name is Raiyyan Ahmed. I'm a first-generation college graduate from the University of St Thomas with a Bachelor's degree in Computer Science. I love to play video like Elden Ring and Fire Emblem because of the challenge they offer. You should hire me for my skills in Python and Java, but I can always learn whatever is required to complete a task.
 
 # Skills
+-Java
+-Python
+-Database Design
+-Adaptability
 
 # Projects
 
 ## Work Out Tracker
-
 [Link to Site: IronLung](https://ironlog-iiyu.onrender.com/)
 
 ## Games
@@ -15,9 +18,16 @@ My name is Raiyyan Ahmed. I'm a first-generation college graduate from the Unive
 
 ## Statistic Project
 
+![Project Screenshot 1](showcase/m1.png)
+![Project Screenshot 2](showcase/m2.png)
+
+
 ## Mini Psychology Research Paper
+[Pyschology Paper About Phobias](showcase/PsychologyPaper.pdf)
 
 ## Film Analysis
 
+[Parasite Movie Analysis](showcase/ParasiteEssay.pdf)
 
 # Resume
+[My Resume](showcase/Resume.pdf)
